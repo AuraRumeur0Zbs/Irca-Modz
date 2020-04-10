@@ -4,10 +4,10 @@ package net.mcreator.test.item;
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.test.itemgroup.IrcaniumtoolItemGroup;
 import net.mcreator.test.TestElements;
 
 @TestElements.ModElement.Tag
@@ -24,7 +24,7 @@ public class IrcaniumingotItem extends TestElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MATERIALS).maxStackSize(64));
+			super(new Item.Properties().group(IrcaniumtoolItemGroup.tab).maxStackSize(64));
 			setRegistryName("ircaniumingot");
 		}
 

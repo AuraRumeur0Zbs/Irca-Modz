@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Ircanium Sword",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Ircaniumtool"
     },
     "toolType": "Sword",
     "harvestLevel": 1,

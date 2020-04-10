@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Ircanium Tool",
+    "icon": {
+      "value": "CUSTOM:Ircaniumingot"
+    },
+    "showSearch": true
+  }
+}

@@ -40,6 +40,28 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Ircaniumtool",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ircaniumarmor",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     }
   ],
   "variable_elements": [],
@@ -47,10 +69,15 @@
   "language_map": {
     "en_us": {
       "item.test.ircaniumsword": "Ircanium Sword",
+      "item.test.ircaniumarmorhelmet": "Ircanium Helmet",
       "advancements.guidestep1.descr": "You create your first Ircanium !",
       "item.test.shield": "Shield",
+      "item.test.ircaniumarmorboots": "Ircanium Boots",
       "advancements.guidestep1.title": "So i make this...",
-      "item.test.ircaniumingot": "Ircanium ingot"
+      "item.test.ircaniumarmorbody": "Ircanium Body",
+      "item.test.ircaniumarmorlegs": "Ircanium Leggings",
+      "item.test.ircaniumingot": "Ircanium ingot",
+      "itemGroup.tabircaniumtool": "Ircanium Tool"
     }
   },
   "workspaceSettings": {

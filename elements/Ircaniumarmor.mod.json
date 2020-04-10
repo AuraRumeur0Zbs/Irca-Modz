@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "shield_texture",
+    "enableBody": true,
+    "textureBody": "ircanium_chestplate_texture",
+    "enableLeggings": true,
+    "textureLeggings": "shield_texture",
+    "enableBoots": true,
+    "textureBoots": "shield_texture",
+    "creativeTab": {
+      "value": "CUSTOM:Ircaniumtool"
+    },
+    "armorTextureFile": "ircanium_",
+    "helmetName": "Ircanium Helmet",
+    "bodyName": "Ircanium Body",
+    "leggingsName": "Ircanium Leggings",
+    "bootsName": "Ircanium Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 30,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": "block.anvil.break"
+    },
+    "repairItems": []
+  }
+}
