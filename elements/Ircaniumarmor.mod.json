@@ -7,9 +7,9 @@
     "enableBody": true,
     "textureBody": "ircanium_chestplate_texture",
     "enableLeggings": true,
-    "textureLeggings": "shield_texture",
+    "textureLeggings": "ircanium_leggings",
     "enableBoots": true,
-    "textureBoots": "shield_texture",
+    "textureBoots": "diamond_ircanium",
     "creativeTab": {
       "value": "CUSTOM:Ircaniumtool"
     },
