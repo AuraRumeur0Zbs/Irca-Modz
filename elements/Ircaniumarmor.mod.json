@@ -3,7 +3,7 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "shield_texture",
+    "textureHelmet": "ircanium_helmet",
     "enableBody": true,
     "textureBody": "ircanium_chestplate_texture",
     "enableLeggings": true,
@@ -40,7 +40,7 @@
     "enchantability": 9,
     "toughness": 0.0,
     "equipSound": {
-      "value": "block.anvil.break"
+      "value": "item.armor.equip_diamond"
     },
     "repairItems": []
   }
